@@ -1,2 +1,3 @@
 # cars-detection-track-count
- VTU Final Year Internship on Detection, tracking and counting cars travelling up and down the highway
+
+Detect and analyse cars moving up and down the highway
